@@ -17,6 +17,7 @@ nav{
 .nav-bar .title{
   font-size: 30px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #8f5fff;
 }
 ul{
   display: flex;
@@ -30,11 +31,11 @@ ul{
   background-color: none;
 }
 
-#item{
+#cartoon{
   background-color: none;
 }
 
-#cart{
+#form{
   background-color: none;
 }
 
@@ -96,6 +97,7 @@ button:hover{
   padding: 20px;
   flex-wrap: wrap;
 }
+
 
 .card1, .card2, .card3, .card4, .card5, .card6 {
   border: 1px solid #000000;
